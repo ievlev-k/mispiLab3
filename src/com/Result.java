@@ -1,8 +1,4 @@
-
-
-
-import java.io.Serializable;
-
+package com;
 
 
 public class Result {
